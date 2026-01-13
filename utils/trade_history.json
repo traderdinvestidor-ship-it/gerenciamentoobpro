@@ -1,0 +1,274 @@
+[
+    {
+        "timestamp": "2026-01-11 18:00:04",
+        "strategy": "SorosGale",
+        "result": "LOSS",
+        "profit_loss": -5.0,
+        "entry": 5.0,
+        "details": "In\u00edcio: Soros N\u00edvel 1"
+    },
+    {
+        "timestamp": "2026-01-11 18:00:08",
+        "strategy": "SorosGale",
+        "result": "LOSS",
+        "profit_loss": -5.75,
+        "entry": 5.75,
+        "details": "Loss (5.00). Calculando Gale para recuperar 5.00..."
+    },
+    {
+        "timestamp": "2026-01-11 18:00:10",
+        "strategy": "SorosGale",
+        "result": "LOSS",
+        "profit_loss": -12.35,
+        "entry": 12.35,
+        "details": "Loss (5.75). Calculando Gale para recuperar 10.75..."
+    },
+    {
+        "timestamp": "2026-01-11 18:00:13",
+        "strategy": "SorosGale",
+        "result": "LOSS",
+        "profit_loss": -26.55,
+        "entry": 26.55,
+        "details": "Loss (12.35). Calculando Gale para recuperar 23.10..."
+    },
+    {
+        "timestamp": "2026-01-11 18:00:15",
+        "strategy": "SorosGale",
+        "result": "LOSS",
+        "profit_loss": -57.07,
+        "entry": 57.07,
+        "details": "Loss (26.55). Calculando Gale para recuperar 49.65..."
+    },
+    {
+        "timestamp": "2026-01-11 18:00:20",
+        "strategy": "SorosGale",
+        "result": "LOSS",
+        "profit_loss": -122.67,
+        "entry": 122.67,
+        "details": "Loss (57.07). Calculando Gale para recuperar 106.72..."
+    },
+    {
+        "timestamp": "2026-01-11 18:00:21",
+        "strategy": "SorosGale",
+        "result": "LOSS",
+        "profit_loss": -263.67,
+        "entry": 263.67,
+        "details": "Loss (122.67). Calculando Gale para recuperar 229.39..."
+    },
+    {
+        "timestamp": "2026-01-11 18:00:23",
+        "strategy": "SorosGale",
+        "result": "LOSS",
+        "profit_loss": -566.74,
+        "entry": 566.74,
+        "details": "Loss (263.67). Calculando Gale para recuperar 493.06..."
+    },
+    {
+        "timestamp": "2026-01-11 18:00:27",
+        "strategy": "SorosGale",
+        "result": "WIN",
+        "profit_loss": 4.35,
+        "entry": 5.0,
+        "details": "In\u00edcio: Soros N\u00edvel 1"
+    },
+    {
+        "timestamp": "2026-01-11 18:00:35",
+        "strategy": "SorosGale",
+        "result": "LOSS",
+        "profit_loss": -9.35,
+        "entry": 9.35,
+        "details": "Soros N\u00edvel 2"
+    },
+    {
+        "timestamp": "2026-01-11 18:00:48",
+        "strategy": "SorosGale",
+        "result": "WIN",
+        "profit_loss": 4.35,
+        "entry": 5.0,
+        "details": "In\u00edcio: Soros N\u00edvel 1"
+    },
+    {
+        "timestamp": "2026-01-11 18:00:52",
+        "strategy": "SorosGale",
+        "result": "LOSS",
+        "profit_loss": -9.35,
+        "entry": 9.35,
+        "details": "Soros N\u00edvel 2"
+    },
+    {
+        "timestamp": "2026-01-11 18:01:11",
+        "strategy": "SacacSniper",
+        "result": "WIN",
+        "profit_loss": 8.671,
+        "entry": 9.966666666666667,
+        "details": "Meta Progress"
+    },
+    {
+        "timestamp": "2026-01-11 18:01:14",
+        "strategy": "SacacSniper",
+        "result": "WIN",
+        "profit_loss": 8.671,
+        "entry": 9.966666666666667,
+        "details": "Meta Progress"
+    },
+    {
+        "timestamp": "2026-01-11 18:01:17",
+        "strategy": "SacacSniper",
+        "result": "WIN",
+        "profit_loss": 8.671,
+        "entry": 9.966666666666667,
+        "details": "Meta Progress"
+    },
+    {
+        "timestamp": "2026-01-11 18:01:18",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -9.966666666666667,
+        "entry": 9.966666666666667,
+        "details": "Cycle Reset"
+    },
+    {
+        "timestamp": "2026-01-11 18:01:20",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -9.966666666666667,
+        "entry": 9.966666666666667,
+        "details": "Cycle Reset"
+    },
+    {
+        "timestamp": "2026-01-11 18:01:21",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -9.966666666666667,
+        "entry": 9.966666666666667,
+        "details": "Cycle Reset"
+    },
+    {
+        "timestamp": "2026-01-11 18:01:24",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -9.966666666666667,
+        "entry": 9.966666666666667,
+        "details": "Cycle Reset"
+    },
+    {
+        "timestamp": "2026-01-11 18:01:27",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -9.966666666666667,
+        "entry": 9.966666666666667,
+        "details": "Cycle Reset"
+    },
+    {
+        "timestamp": "2026-01-11 18:01:29",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -9.966666666666667,
+        "entry": 9.966666666666667,
+        "details": "Cycle Reset"
+    },
+    {
+        "timestamp": "2026-01-11 18:01:51",
+        "strategy": "SacacSniper",
+        "result": "WIN",
+        "profit_loss": 8.671,
+        "entry": 9.966666666666667,
+        "details": "Meta Progress"
+    },
+    {
+        "timestamp": "2026-01-11 18:01:53",
+        "strategy": "SacacSniper",
+        "result": "WIN",
+        "profit_loss": 8.671,
+        "entry": 9.966666666666667,
+        "details": "Meta Progress"
+    },
+    {
+        "timestamp": "2026-01-11 18:02:01",
+        "strategy": "SacacSniper",
+        "result": "WIN",
+        "profit_loss": 9.656999999999979,
+        "entry": 11.099999999999975,
+        "details": "Meta Progress"
+    },
+    {
+        "timestamp": "2026-01-11 18:02:03",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -11.099999999999975,
+        "entry": 11.099999999999975,
+        "details": "Cycle Reset"
+    },
+    {
+        "timestamp": "2026-01-11 18:02:05",
+        "strategy": "SacacSniper",
+        "result": "WIN",
+        "profit_loss": 9.656999999999979,
+        "entry": 11.099999999999975,
+        "details": "Meta Progress"
+    },
+    {
+        "timestamp": "2026-01-11 18:02:06",
+        "strategy": "SacacSniper",
+        "result": "WIN",
+        "profit_loss": 9.656999999999979,
+        "entry": 11.099999999999975,
+        "details": "Meta Progress"
+    },
+    {
+        "timestamp": "2026-01-11 18:02:11",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -11.099999999999975,
+        "entry": 11.099999999999975,
+        "details": "Cycle Reset"
+    },
+    {
+        "timestamp": "2026-01-11 18:02:12",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -11.099999999999975,
+        "entry": 11.099999999999975,
+        "details": "Cycle Reset"
+    },
+    {
+        "timestamp": "2026-01-11 18:02:14",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -11.099999999999975,
+        "entry": 11.099999999999975,
+        "details": "Cycle Reset"
+    },
+    {
+        "timestamp": "2026-01-11 18:02:17",
+        "strategy": "SacacSniper",
+        "result": "WIN",
+        "profit_loss": 9.656999999999979,
+        "entry": 11.099999999999975,
+        "details": "Meta Progress"
+    },
+    {
+        "timestamp": "2026-01-11 18:02:19",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -11.099999999999975,
+        "entry": 11.099999999999975,
+        "details": "Cycle Reset"
+    },
+    {
+        "timestamp": "2026-01-11 18:02:20",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -11.099999999999975,
+        "entry": 11.099999999999975,
+        "details": "Cycle Reset"
+    },
+    {
+        "timestamp": "2026-01-11 18:02:22",
+        "strategy": "SacacSniper",
+        "result": "LOSS",
+        "profit_loss": -11.099999999999975,
+        "entry": 11.099999999999975,
+        "details": "Cycle Reset"
+    }
+]
